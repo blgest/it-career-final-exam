@@ -1,3 +1,2 @@
-Upload theory on simple and logical language. 
-Code upload in folder in format Subject-YourName.
-In that folder paste your project.
+Upload theory on simple and logical bulgarian in .doc/.docx file format. 
+Upload code in folder.

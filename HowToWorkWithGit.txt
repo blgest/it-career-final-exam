@@ -1,6 +1,11 @@
+GitBash
+
 1. Clone the repo
-2. Before upload and reading write git pull
-3. After adding of your files write git status to see again what tou will upload and then add with git add -u to add all modifications
-4. Then commit with git commit -m "Message"
-5. Then git push
-6. If you find something incorrect write comment
+2. Select your brach with "git checkout branchname"
+3. Before upload and reading write git pull
+4. Write "git add -u" to add all modifications
+5. Then commit with "git commit -m "Message""
+6. Then "git push origin branchname"
+7. If you find something incorrect write comment
+
+Also you can use git desktop version
