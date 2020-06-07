@@ -1,0 +1,1 @@
+Here paste ASP.NET Core projects
