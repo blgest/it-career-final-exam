@@ -1,0 +1,11 @@
+D:\Desktop Data\EDUCATION\it-kariera\Problems\1\Solution\Solution\bin\Debug\netcoreapp3.1\Solution.exe
+D:\Desktop Data\EDUCATION\it-kariera\Problems\1\Solution\Solution\bin\Debug\netcoreapp3.1\Solution.deps.json
+D:\Desktop Data\EDUCATION\it-kariera\Problems\1\Solution\Solution\bin\Debug\netcoreapp3.1\Solution.runtimeconfig.json
+D:\Desktop Data\EDUCATION\it-kariera\Problems\1\Solution\Solution\bin\Debug\netcoreapp3.1\Solution.runtimeconfig.dev.json
+D:\Desktop Data\EDUCATION\it-kariera\Problems\1\Solution\Solution\bin\Debug\netcoreapp3.1\Solution.dll
+D:\Desktop Data\EDUCATION\it-kariera\Problems\1\Solution\Solution\bin\Debug\netcoreapp3.1\Solution.pdb
+D:\Desktop Data\EDUCATION\it-kariera\Problems\1\Solution\Solution\obj\Debug\netcoreapp3.1\Solution.csprojAssemblyReference.cache
+D:\Desktop Data\EDUCATION\it-kariera\Problems\1\Solution\Solution\obj\Debug\netcoreapp3.1\Solution.AssemblyInfoInputs.cache
+D:\Desktop Data\EDUCATION\it-kariera\Problems\1\Solution\Solution\obj\Debug\netcoreapp3.1\Solution.AssemblyInfo.cs
+D:\Desktop Data\EDUCATION\it-kariera\Problems\1\Solution\Solution\obj\Debug\netcoreapp3.1\Solution.dll
+D:\Desktop Data\EDUCATION\it-kariera\Problems\1\Solution\Solution\obj\Debug\netcoreapp3.1\Solution.pdb
